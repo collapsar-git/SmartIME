@@ -62,7 +62,7 @@
 3. 可选：命令行 / 调试
    - `main.py` 中的 `HMM_Model` 可被单独导入/测试，提供 `get_top_candidates()`、`beam_search()` 等接口。
 
-## 📁 文件说明（`plus/` 目录）
+## 📁 文件说明
 
 - `gui.py` 🔧
   - PyQt5 GUI 主程序；实现输入框、候选栏、翻页、鼠标悬停显示解释、键盘快捷操作等逻辑。
